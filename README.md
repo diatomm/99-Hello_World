@@ -1,2 +1,2 @@
 # 99-Hello_World
-My first step into git an blogdown
+My first step into git and blogdown
